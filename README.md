@@ -1,2 +1,2 @@
 # mdpath
-Get list of mongod database directory path.
+Get list of mongo database directory path.

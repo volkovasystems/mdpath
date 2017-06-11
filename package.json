@@ -1,0 +1,39 @@
+{
+  "name": "mdpath",
+  "version": "0.0.0",
+  "description": "Get list of mongo database directory path.",
+  "main": "mdpath.js",
+  "scripts": {
+    "test": "mocha mdpath-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/mdpath.git"
+  },
+  "keywords": [
+    "get",
+    "list",
+    "mongo",
+    "database",
+    "directory",
+    "path",
+    "mdpath"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/mdpath/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/mdpath#readme",
+  "dependencies": {
+    "comex": "^0.22.0",
+    "depher": "^0.33.0",
+    "filled": "^0.22.0",
+    "mdcon": "^0.2.0",
+    "mdngine": "^0.2.0",
+    "parsfy": "^0.0.0",
+    "raze": "^0.30.0",
+    "truu": "^0.26.0",
+    "zelf": "^0.12.0"
+  }
+}
